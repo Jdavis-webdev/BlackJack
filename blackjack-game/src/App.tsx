@@ -8,6 +8,6 @@ function App() {
       <BlackjackGame />
     </div>
   )
-}
+};
 
 export default App
