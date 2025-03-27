@@ -7,7 +7,7 @@ function App() {
     <div className="App min-h-screen bg-gray-100 flex items-center justify-center">
       <BlackjackGame />
     </div>
-  )
+  );
 };
 
 export default App
